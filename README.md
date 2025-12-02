@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShayanBanerjee
-- 👀 I’m interested in Deep Learning, Computer Vision
+- 👀 I’m interested in Gen AI, Agentic AI, and Computer Vision
 - 🌱 I’m currently learning Azure and Object Detection at edge
-- 💞️ I’m looking to collaborate on new ways for fast object detection
+- 💞️ I’m looking to collaborate on new ways for Gen AI Chatbots and fast object detection for Indian Defence Forces
 - 📫 How to reach me, well drop a mail at shayanbanerjee96@gmail.com
 
 <!---
